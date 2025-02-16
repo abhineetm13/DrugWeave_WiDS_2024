@@ -1,0 +1,37 @@
+Scores
+
+1. Split by protein:
+
+Concordance Index: 0.630364293394901
+Mean-Square Error: 2.156080121046101
+Pearson Correlation Coefficient: 0.21929081262887515
+Area Under the Precision-Recall Curve: 0.5422322775263951
+r^2: -1.8088766807767573, r_0^2: -1.2082552246497533
+r_m^2 index is not defined
+
+2. Split by drug:
+
+Concordance Index: 0.7207341765322719
+Mean-Square Error: 2.165258019569083
+Pearson Correlation Coefficient: 0.4259920984007914
+Area Under the Precision-Recall Curve: 0.5392525431225121
+r^2: -1.8197501874980717, r_0^2: -1.3257048408205652
+r_m^2 index is not defined
+
+3. Split with new proteins in test split:
+
+Concordance Index: 0.7651702084428275
+Mean-Square Error: 1.706135939580779
+Pearson Correlation Coefficient: 0.5568522545709151
+Area Under the Precision-Recall Curve: 0.5546562914209974
+r^2: -1.0134800174733596, r_0^2: -0.5725164704702421
+r_m^2 index is not defined
+
+4. Split with new drugs in test split:
+
+Concordance Index: 0.3247884570647624
+Mean-Square Error: 2.4899075827481987
+Pearson Correlation Coefficient: -0.16331547169434454
+Area Under the Precision-Recall Curve: 0.5505817711700065
+r^2: -1.5908692091681491, r_0^2: -0.6465549540362863
+r_m^2 index is not defined
